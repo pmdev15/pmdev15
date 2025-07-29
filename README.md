@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pmdev15
-- 👀 I’m interested in game development and competative programming
-- 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on game development and competative programming
+- 👀 I’m interested in low level and competative programming
+- 🌱 I’m currently learning c, c++ and python
+- 💞️ I’m looking to collaborate on low level and competative programming
 - 📫 How to reach me gmail - pmdev1566@gmail.com
 
 <!---
